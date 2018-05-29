@@ -1,0 +1,11 @@
+name = New Page
+description = "module de création de nouvelles pages à la volet"
+core = 7.x
+
+;déclaration de dépendances ex : dependance[]=(projet):(module)
+
+dependencies[] = views:views
+
+; packages
+
+package = Smile
